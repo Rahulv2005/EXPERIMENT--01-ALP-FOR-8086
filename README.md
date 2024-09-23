@@ -1,7 +1,7 @@
 ## EXPERIMENT--01-ALP-FOR-8086
-### Name : JANARTHANAN K
-### Roll no : 212223040072
-### Date of experiment :
+### Name : RAHUL V
+### Roll no : 212223240132
+### Date of experiment : 12.8.24
 
 
 
